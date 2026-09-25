@@ -80,9 +80,6 @@
    <a href="https://discord.com/users/695016698780057700"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   </div>
 
-  <br>
-  <br>
-
   <!-- ==================== FOOTER ==================== -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008F62,50:00B87A,100:00FF9C&height=100&section=footer"/>
 </div>
