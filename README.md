@@ -13,33 +13,18 @@
   <br>
 
   <!-- ==================== MY TECH STACK ==================== -->
-  <div >
-   <p><img src="./assets/titles/mytechstack.svg"  width="500" alt="My Tech Stack"></p>
+  <div>
+  <p align="center">
+    <img src="./assets/titles/mytechstack.svg" width="500" alt="My Tech Stack">
+  </p>
 
-   <table align="center">
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=python" alt="Python"></td>
-      <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></td>
-      <td><img src="https://skillicons.dev/icons?i=html" alt="HTML"></td>
-      <td><img src="https://skillicons.dev/icons?i=css" alt="CSS"></td>
-      <td><img src="https://skillicons.dev/icons?i=php" alt="PHP"></td>
-      <td><img src="https://skillicons.dev/icons?i=cs" alt="C#"></td>
-      <td><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></td>
-      <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"></td>
-    </tr>
-   <tr>
-      <td><img src="https://skillicons.dev/icons?i=react" alt="React"></td>
-      <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"></td>
-      <td><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET"></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"></td>
-      <td><img src="https://skillicons.dev/icons?i=git" alt="Git"></td>
-      <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></td>
-      <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></td>
-      <td><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"></td>
-    </tr>
-
-   </table>
-  </div>
+  <p align="center">
+    <img
+      src="https://skillicons.dev/icons?i=python,js,html,css,php,cs,flask,nextjs,react,tailwind,dotnet,vscode,git,github,mysql,sqlite&perline=8&gap=15"
+      alt="Python, JavaScript, HTML, CSS, PHP, C#, Flask, Next.js, React, Tailwind CSS, .NET, VS Code, Git, GitHub, MySQL e SQLite"
+    >
+  </p>
+</div>
 
   <!-- ==================== DIVIDER ==================== -->
   <br>
